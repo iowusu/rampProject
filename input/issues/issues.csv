@@ -1,0 +1,94 @@
+id,order,type,title,description,customer,contact,status,valid_start,path
+1,2,Manufacturing,armed insulation not functional,Ordered armed insulation on 04/20/2017. Product arrived on 04/22/2017 and not functional. Please Help!,1,,in-progress,04/20/2017,1.0
+2,9,Manufacturing,alert doubling not functional,Ordered alert doubling on 04/21/2017. Product arrived on 04/27/2017 and not functional. Please Help!,2,,closed,04/21/2017,1.0
+3,14,Manufacturing,turkish lynx not functional,Ordered turkish lynx on 04/22/2017. Product arrived on 04/25/2017 and not functional. Please Help!,3,,closed,04/22/2017,0.0
+4,15,Manufacturing,dull chairlift not functional,Ordered dull chairlift on 04/22/2017. Product arrived on 04/28/2017 and not functional. Please Help!,4,,closed,04/22/2017,1.0
+5,17,Shipping,harsh yogurt was delivered broken,Ordered harsh yogurt on 04/22/2017. Product arrived on 04/29/2017 and was damaged in shipping. Please Help!,5,,closed,04/22/2017,0.0
+6,22,Manufacturing,alert doubling not functional,Ordered alert doubling on 04/22/2017. Product arrived on 05/04/2017 and not functional. Please Help!,6,,closed,04/22/2017,0.0
+7,32,Shipping,A shirt for mammoth shortwave was delivered broken,Ordered mammoth shortwave on 04/25/2017. Product arrived on 05/06/2017 and was delivered broken. Please Help!,7,,closed,04/25/2017,1.0
+8,35,Shipping,russian great-grandmother was delivered broken,Ordered russian great-grandmother on 04/26/2017. Product arrived on 05/06/2017 and was delivered broken. Please Help!,8,,closed,04/26/2017,1.0
+9,37,Shipping,reliable nephew was damaged in shipping,Ordered reliable nephew on 04/26/2017. Product arrived on 04/29/2017 and was damaged in shipping. Please Help!,,russellbryan@gmail.com,closed,04/26/2017,0.0
+10,41,Did not like,original explanation not as expected,Ordered original explanation on 04/27/2017. Product arrived on 05/02/2017 and not as advertised. Please Help!,10,,closed,04/27/2017,0.0
+11,47,Shipping,weird air was damaged in shipping,Ordered weird air on 04/29/2017. Product arrived on 05/05/2017 and was delivered broken. Please Help!,11,,closed,04/29/2017,0.0
+12,48,Did not like,dangerous bolero not as expected,Ordered dangerous bolero on 04/29/2017. Product arrived on 05/11/2017 and not as expected. Please Help!,12,,closed,04/29/2017,1.0
+13,93,Shipping,filthy search was damaged in shipping,Ordered filthy search on 05/06/2017. Product arrived on 05/17/2017 and was delivered broken. Please Help!,13,,in-progress,05/06/2017,1.0
+14,121,Shipping,golden clam was delivered broken,Ordered golden clam on 05/09/2017. Product arrived on 05/14/2017 and was delivered broken. Please Help!,14,,closed,05/09/2017,0.0
+15,127,Did not like,weird air not as expected,Ordered weird air on 05/10/2017. Product arrived on 05/13/2017 and not as advertised. Please Help!,15,,closed,05/10/2017,0.0
+16,137,Shipping,soft bike was damaged in shipping,Ordered soft bike on 05/12/2017. Product arrived on 05/14/2017 and was damaged in shipping. Please Help!,16,,closed,05/12/2017,0.0
+17,144,Did not like,stingy sharon not as expected,Ordered stingy sharon on 05/12/2017. Product arrived on 05/20/2017 and not as expected. Please Help!,,steinbobby@gmail.com,in-progress,05/12/2017,0.0
+18,161,Shipping,unfair fact was damaged in shipping,Ordered unfair fact on 05/15/2017. Product arrived on 05/28/2017 and was damaged in shipping. Please Help!,18,,closed,05/15/2017,1.0
+19,162,Manufacturing,inadequate faucet not functional,Ordered inadequate faucet on 05/15/2017. Product arrived on 05/18/2017 and not functional. Please Help!,19,,closed,05/15/2017,1.0
+20,174,Manufacturing,A shirt for planned casserole not functional,Ordered planned casserole on 05/17/2017. Product arrived on 05/29/2017 and not functional. Please Help!,,mcarter@morales.info,closed,05/17/2017,0.0
+21,188,Shipping,sunglasses for elaborate feet was delivered broken,Ordered elaborate feet on 05/20/2017. Product arrived on 05/24/2017 and was delivered broken. Please Help!,21,,new,05/20/2017,0.0
+22,198,Did not like,liberal spinach not as advertised,Ordered liberal spinach on 05/21/2017. Product arrived on 05/29/2017 and not as advertised. Please Help!,22,,closed,05/21/2017,1.0
+23,206,Shipping,varied slope Extension 1 was delivered broken,Ordered varied slope Extension 1 on 05/21/2017. Product arrived on 06/01/2017 and was damaged in shipping. Please Help!,,ismith@kim.com,in-progress,05/21/2017,1.0
+24,219,Did not like,exact age not as advertised,Ordered exact age on 05/25/2017. Product arrived on 05/27/2017 and not as expected. Please Help!,24,,in-progress,05/25/2017,0.0
+25,224,Manufacturing,unwilling eave not functional,Ordered unwilling eave on 05/27/2017. Product arrived on 06/03/2017 and not functional. Please Help!,25,,closed,05/27/2017,0.0
+26,225,Did not like,potential approval not as advertised,Ordered potential approval on 05/27/2017. Product arrived on 05/29/2017 and not as expected. Please Help!,,ryan39@lee-young.com,closed,05/27/2017,0.0
+27,226,Manufacturing,left foxglove not functional,Ordered left foxglove on 05/28/2017. Product arrived on 05/30/2017 and not functional. Please Help!,,xrodriguez@yahoo.com,closed,05/28/2017,0.0
+28,229,Shipping,gothic cuckoo was damaged in shipping,Ordered gothic cuckoo on 05/29/2017. Product arrived on 06/08/2017 and was delivered broken. Please Help!,28,,closed,05/29/2017,1.0
+29,261,Manufacturing,robust deathwatch not functional,Ordered robust deathwatch on 06/09/2017. Product arrived on 06/16/2017 and not functional. Please Help!,,jamessanchez@gmail.com,closed,06/09/2017,1.0
+30,285,Did not like,orthodox sunroom not as expected,Ordered orthodox sunroom on 06/14/2017. Product arrived on 06/23/2017 and not as expected. Please Help!,30,,closed,06/14/2017,0.0
+31,301,Manufacturing,different gallon Extension 0 not functional,Ordered different gallon Extension 0 on 06/14/2017. Product arrived on 06/18/2017 and not functional. Please Help!,,rfleming@yahoo.com,closed,06/14/2017,1.0
+32,324,Did not like,planned casserole not as advertised,Ordered planned casserole on 06/16/2017. Product arrived on 06/19/2017 and not as advertised. Please Help!,32,,closed,06/16/2017,0.0
+33,334,Manufacturing,a hat for global son not functional,Ordered global son on 06/18/2017. Product arrived on 06/24/2017 and not functional. Please Help!,33,,closed,06/18/2017,0.0
+34,341,Did not like,armed insulation not as expected,Ordered armed insulation on 06/20/2017. Product arrived on 06/23/2017 and not as advertised. Please Help!,34,,closed,06/20/2017,0.0
+35,355,Shipping,russian great-grandmother was delivered broken,Ordered russian great-grandmother on 06/21/2017. Product arrived on 06/29/2017 and was damaged in shipping. Please Help!,35,,closed,06/21/2017,1.0
+36,356,Shipping,puzzled sandra was damaged in shipping,Ordered puzzled sandra on 06/21/2017. Product arrived on 06/30/2017 and was delivered broken. Please Help!,36,,closed,06/21/2017,1.0
+37,363,Shipping,white blade was damaged in shipping,Ordered white blade on 06/22/2017. Product arrived on 06/26/2017 and was damaged in shipping. Please Help!,,evanstimothy@hotmail.com,new,06/22/2017,1.0
+38,367,Manufacturing,dull chairlift not functional,Ordered dull chairlift on 06/23/2017. Product arrived on 06/29/2017 and not functional. Please Help!,37,,in-progress,06/23/2017,1.0
+39,369,Shipping,isolated death was damaged in shipping,Ordered isolated death on 06/24/2017. Product arrived on 06/29/2017 and was damaged in shipping. Please Help!,38,,in-progress,06/24/2017,1.0
+40,387,Shipping,unwilling eave was delivered broken,Ordered unwilling eave on 06/30/2017. Product arrived on 07/02/2017 and was delivered broken. Please Help!,39,,closed,06/30/2017,1.0
+41,404,Shipping,global son was delivered broken,Ordered global son on 07/04/2017. Product arrived on 07/15/2017 and was damaged in shipping. Please Help!,40,,closed,07/04/2017,0.0
+42,415,Manufacturing,original explanation not functional,Ordered original explanation on 07/05/2017. Product arrived on 07/08/2017 and not functional. Please Help!,41,,new,07/05/2017,1.0
+43,419,Manufacturing,meaningful wedding not functional,Ordered meaningful wedding on 07/05/2017. Product arrived on 07/09/2017 and not functional. Please Help!,,colonmichelle@williams-harris.com,closed,07/05/2017,1.0
+44,427,Shipping,Replacement figurines was damaged in shipping,Ordered intensive independent on 07/07/2017. Product arrived on 07/18/2017 and was damaged in shipping. Please Help!,43,,new,07/07/2017,0.0
+45,444,Did not like,successful ink not as advertised,Ordered successful ink on 07/09/2017. Product arrived on 07/19/2017 and not as advertised. Please Help!,44,,closed,07/09/2017,0.0
+46,458,Manufacturing,crazy dame not functional,Ordered crazy dame on 07/13/2017. Product arrived on 07/23/2017 and not functional. Please Help!,45,,closed,07/13/2017,1.0
+47,462,Did not like,dynamic eyeball not as expected,Ordered dynamic eyeball on 07/13/2017. Product arrived on 07/20/2017 and not as expected. Please Help!,46,,closed,07/13/2017,0.0
+48,466,Shipping,original explanation was damaged in shipping,Ordered original explanation on 07/13/2017. Product arrived on 07/19/2017 and was delivered broken. Please Help!,47,,in-progress,07/13/2017,1.0
+49,487,Shipping,white blade was damaged in shipping,Ordered white blade on 07/18/2017. Product arrived on 07/26/2017 and was delivered broken. Please Help!,48,,closed,07/18/2017,0.0
+50,513,Shipping,russian great-grandmother was delivered broken,Ordered russian great-grandmother on 07/23/2017. Product arrived on 07/29/2017 and was delivered broken. Please Help!,49,,closed,07/23/2017,1.0
+51,522,Shipping,Replacement figurines was delivered broken,Ordered original explanation on 07/23/2017. Product arrived on 08/02/2017 and was damaged in shipping. Please Help!,50,,closed,07/23/2017,0.0
+52,529,Did not like,different gallon not as expected,Ordered different gallon on 07/24/2017. Product arrived on 07/28/2017 and not as expected. Please Help!,51,,closed,07/24/2017,0.0
+53,537,Manufacturing,inadequate faucet not functional,Ordered inadequate faucet on 07/27/2017. Product arrived on 07/29/2017 and not functional. Please Help!,52,,closed,07/27/2017,0.0
+54,568,Manufacturing,potential approval not functional,Ordered potential approval on 07/27/2017. Product arrived on 08/02/2017 and not functional. Please Help!,53,,closed,07/27/2017,0.0
+55,573,Shipping,original explanation was delivered broken,Ordered original explanation on 07/27/2017. Product arrived on 08/04/2017 and was damaged in shipping. Please Help!,,fosterroberto@garcia.net,closed,07/27/2017,1.0
+56,580,Did not like,exact age not as advertised,Ordered exact age on 07/28/2017. Product arrived on 08/08/2017 and not as advertised. Please Help!,55,,in-progress,07/28/2017,1.0
+57,596,Did not like,extensive ptarmigan not as expected,Ordered extensive ptarmigan on 07/30/2017. Product arrived on 08/12/2017 and not as expected. Please Help!,56,,closed,07/30/2017,0.0
+58,625,Did not like,safe constant not as advertised,Ordered safe constant on 08/02/2017. Product arrived on 08/09/2017 and not as advertised. Please Help!,,millermary@hotmail.com,closed,08/02/2017,0.0
+59,630,Did not like,commercial jail not as advertised,Ordered commercial jail on 08/02/2017. Product arrived on 08/09/2017 and not as expected. Please Help!,58,,closed,08/02/2017,0.0
+60,640,Shipping,beautiful pumpkin Extension 0 was delivered broken,Ordered beautiful pumpkin Extension 0 on 08/06/2017. Product arrived on 08/10/2017 and was delivered broken. Please Help!,59,,closed,08/06/2017,1.0
+61,650,Manufacturing,exclusive typewriter not functional,Ordered exclusive typewriter on 08/06/2017. Product arrived on 08/16/2017 and not functional. Please Help!,,lvalencia@hotmail.com,closed,08/06/2017,0.0
+62,660,Manufacturing,left foxglove not functional,Ordered left foxglove on 08/10/2017. Product arrived on 08/20/2017 and not functional. Please Help!,61,,closed,08/10/2017,1.0
+63,663,Manufacturing,golden clam not functional,Ordered golden clam on 08/10/2017. Product arrived on 08/13/2017 and not functional. Please Help!,62,,new,08/10/2017,0.0
+64,664,Shipping,big steamroller was damaged in shipping,Ordered big steamroller on 08/10/2017. Product arrived on 08/13/2017 and was delivered broken. Please Help!,63,,closed,08/10/2017,1.0
+65,667,Shipping,mysterious bugle was damaged in shipping,Ordered mysterious bugle on 08/11/2017. Product arrived on 08/13/2017 and was damaged in shipping. Please Help!,64,,in-progress,08/11/2017,1.0
+66,669,Did not like,conceptual cobweb not as expected,Ordered conceptual cobweb on 08/12/2017. Product arrived on 08/22/2017 and not as expected. Please Help!,65,,closed,08/12/2017,1.0
+67,676,Shipping,white blade was damaged in shipping,Ordered white blade on 08/12/2017. Product arrived on 08/15/2017 and was delivered broken. Please Help!,66,,closed,08/12/2017,1.0
+68,680,Shipping,bitter command was damaged in shipping,Ordered bitter command on 08/12/2017. Product arrived on 08/23/2017 and was delivered broken. Please Help!,67,,closed,08/12/2017,0.0
+69,691,Shipping,filthy search was delivered broken,Ordered filthy search on 08/12/2017. Product arrived on 08/20/2017 and was delivered broken. Please Help!,40,,closed,08/12/2017,1.0
+70,705,Manufacturing,premier maestro Extension 0 not functional,Ordered premier maestro Extension 0 on 08/14/2017. Product arrived on 08/21/2017 and not functional. Please Help!,68,,closed,08/14/2017,0.0
+71,723,Did not like,liberal spinach not as expected,Ordered liberal spinach on 08/17/2017. Product arrived on 08/27/2017 and not as expected. Please Help!,69,,closed,08/17/2017,0.0
+72,760,Shipping,smart edward was damaged in shipping,Ordered smart edward on 08/21/2017. Product arrived on 08/29/2017 and was damaged in shipping. Please Help!,70,,closed,08/21/2017,0.0
+73,767,Did not like,big steamroller not as expected,Ordered big steamroller on 08/23/2017. Product arrived on 08/27/2017 and not as advertised. Please Help!,,cherylsimon@campbell.com,closed,08/23/2017,0.0
+74,775,Manufacturing,unnecessary injury Extension 0 not functional,Ordered unnecessary injury Extension 0 on 08/24/2017. Product arrived on 08/26/2017 and not functional. Please Help!,72,,closed,08/24/2017,1.0
+75,777,Shipping,conceptual cobweb was damaged in shipping,Ordered conceptual cobweb on 08/25/2017. Product arrived on 09/03/2017 and was damaged in shipping. Please Help!,73,,closed,08/25/2017,1.0
+76,798,Shipping,different gallon was damaged in shipping,Ordered different gallon on 08/27/2017. Product arrived on 09/03/2017 and was delivered broken. Please Help!,74,,closed,08/27/2017,1.0
+77,804,Did not like,alert doubling not as expected,Ordered alert doubling on 08/28/2017. Product arrived on 09/02/2017 and not as advertised. Please Help!,75,,closed,08/28/2017,1.0
+78,812,Manufacturing,white blade not functional,Ordered white blade on 08/29/2017. Product arrived on 09/05/2017 and not functional. Please Help!,76,,closed,08/29/2017,1.0
+79,831,Shipping,big steamroller was delivered broken,Ordered big steamroller on 09/02/2017. Product arrived on 09/10/2017 and was damaged in shipping. Please Help!,77,,closed,09/02/2017,1.0
+80,833,Shipping,big steamroller was damaged in shipping,Ordered big steamroller on 09/02/2017. Product arrived on 09/15/2017 and was delivered broken. Please Help!,78,,in-progress,09/02/2017,1.0
+81,839,Did not like,ugliest dependent not as expected,Ordered ugliest dependent on 09/03/2017. Product arrived on 09/10/2017 and not as advertised. Please Help!,79,,closed,09/03/2017,0.0
+82,853,Did not like,native foray not as advertised,Ordered native foray on 09/04/2017. Product arrived on 09/08/2017 and not as advertised. Please Help!,80,,closed,09/04/2017,0.0
+83,854,Did not like,Replacement card deck not as expected,Ordered clever sneakers on 09/04/2017. Product arrived on 09/15/2017 and not as advertised. Please Help!,81,,closed,09/04/2017,0.0
+84,861,Shipping,russian great-grandmother was damaged in shipping,Ordered russian great-grandmother on 09/06/2017. Product arrived on 09/19/2017 and was damaged in shipping. Please Help!,,tbennett@rios-valdez.com,closed,09/06/2017,0.0
+85,890,Manufacturing,Replacement figurines not functional,Ordered injured freedom on 09/10/2017. Product arrived on 09/18/2017 and not functional. Please Help!,41,,closed,09/10/2017,1.0
+86,904,Manufacturing,inadequate faucet not functional,Ordered inadequate faucet on 09/13/2017. Product arrived on 09/22/2017 and not functional. Please Help!,,victoria83@johnson.com,closed,09/13/2017,1.0
+87,929,Did not like,puzzled sandra not as expected,Ordered puzzled sandra on 09/15/2017. Product arrived on 09/28/2017 and not as advertised. Please Help!,84,,closed,09/15/2017,1.0
+88,934,Manufacturing,Replacement card deck not functional,Ordered standard duplexer on 09/15/2017. Product arrived on 09/21/2017 and not functional. Please Help!,85,,closed,09/15/2017,0.0
+89,938,Manufacturing,dynamic eyeball not functional,Ordered dynamic eyeball on 09/15/2017. Product arrived on 09/18/2017 and not functional. Please Help!,86,,closed,09/15/2017,0.0
+90,941,Manufacturing,dull chairlift not functional,Ordered dull chairlift on 09/15/2017. Product arrived on 09/17/2017 and not functional. Please Help!,87,,closed,09/15/2017,0.0
+91,950,Shipping,intimate distribution was damaged in shipping,Ordered intimate distribution on 09/17/2017. Product arrived on 09/21/2017 and was damaged in shipping. Please Help!,88,,closed,09/17/2017,0.0
+92,951,Manufacturing,safe constant not functional,Ordered safe constant on 09/17/2017. Product arrived on 09/23/2017 and not functional. Please Help!,89,,in-progress,09/17/2017,1.0
+93,993,Manufacturing,liable greenhouse not functional,Ordered liable greenhouse on 09/20/2017. Product arrived on 09/26/2017 and not functional. Please Help!,75,,in-progress,09/20/2017,1.0

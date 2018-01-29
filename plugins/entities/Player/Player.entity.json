@@ -1,0 +1,23 @@
+{
+  "info" : {
+    "title" : "Player",
+    "version" : "0.0.1"
+  },
+  "definitions" : {
+    "Player" : {
+      "required" : [ ],
+      "rangeIndex" : [ "null" ],
+      "wordLexicon" : [ ],
+      "properties" : {
+        "PlayerName" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        },
+        "NationalTeam" : {
+          "datatype" : "string",
+          "collation" : "http://marklogic.com/collation/codepoint"
+        }
+      }
+    }
+  }
+}
