@@ -1,0 +1,15 @@
+{
+  "info" : {
+    "title" : "Team",
+    "version" : "0.0.1",
+    "baseUri" : "/team/"
+  },
+  "definitions" : {
+    "Team" : {
+      "required" : [ ],
+      "rangeIndex" : [ ],
+      "wordLexicon" : [ ],
+      "properties" : { }
+    }
+  }
+}

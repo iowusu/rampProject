@@ -9,9 +9,11 @@
  * @return - an array of triples
  */
 function createTriples(id, content, headers, options) {
+  
+ 
+
   return [];
 }
-
 module.exports = {
   createTriples: createTriples
 };

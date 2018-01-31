@@ -11,7 +11,8 @@ function createHeaders(id, content, options) {
  var headers =
       {
         "Tournament": "Euro2012",
-        "source" :"Euro2012"
+        "source" :"Euro2012",
+        "Player" : "player"
       };
   return headers;
 }

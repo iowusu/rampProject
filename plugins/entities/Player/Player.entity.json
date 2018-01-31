@@ -1,10 +1,12 @@
 {
   "info" : {
     "title" : "Player",
-    "version" : "0.0.1"
+    "version" : "0.0.1",
+    "baseUri" : "/player"
   },
   "definitions" : {
     "Player" : {
+      "primaryKey" : "PlayerName",
       "required" : [ ],
       "rangeIndex" : [ "null" ],
       "wordLexicon" : [ ],

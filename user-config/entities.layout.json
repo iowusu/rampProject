@@ -14,10 +14,17 @@
     "vertices" : { }
   },
   "Player" : {
-    "x" : 100,
-    "y" : 100,
-    "width" : 350,
-    "height" : 100,
+    "x" : 532,
+    "y" : 133,
+    "width" : 534,
+    "height" : 155,
+    "vertices" : { }
+  },
+  "Team" : {
+    "x" : 586,
+    "y" : 391,
+    "width" : 480,
+    "height" : 155,
     "vertices" : { }
   }
 }
